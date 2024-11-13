@@ -1,5 +1,5 @@
-# Dextools
-Knowledge
+# Dextools Trending Bot
+# WebSite : https://dextrendingbot.io/
 
 # What is the Dextools Trending Bot?
 The Dextools Trending Bot is an innovative tool specifically created to push your token into the trending section on Dextools, a leading platform for tracking and analyzing cryptocurrency data. By using the bot, your token gains increased visibility, which can result in more trades, higher liquidity, and greater investor interest. The bot leverages real-time data such as price movements, volume changes, and liquidity growth to ensure that only the most relevant and trending tokens make it to the top.
